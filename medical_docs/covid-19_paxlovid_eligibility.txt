@@ -1,0 +1,64 @@
+--- CLINICAL PROTOCOL: COVID-19 — PAXLOVID (NIRMATRELVIR/RITONAVIR) ELIGIBILITY ---
+
+Mechanism of Action:
+Paxlovid (nirmatrelvir 150 mg + ritonavir 100 mg) is an oral antiviral combination. Nirmatrelvir inhibits the SARS-CoV-2 3CL protease, blocking viral replication. Ritonavir is a pharmacokinetic booster that inhibits CYP3A4-mediated metabolism of nirmatrelvir, maintaining therapeutic levels.
+
+Indication (NIH/FDA 2022):
+Treatment of mild-to-moderate COVID-19 in adults and pediatric patients ≥12 years (≥40 kg) with:
+1. Confirmed SARS-CoV-2 infection (positive antigen or PCR test)
+2. High risk of progression to severe COVID-19 (hospitalization or death)
+Initiate within 5 days of symptom onset. NOT for hospitalized patients or for prophylaxis.
+
+High-Risk Eligibility Criteria (any one):
+- Age ≥65 years
+- BMI >25 kg/m² (overweight/obesity)
+- Diabetes mellitus (type 1 or 2)
+- Cardiovascular disease (including hypertension)
+- Chronic kidney disease (any stage)
+- COPD, asthma, or other chronic lung disease
+- Active cancer or history of cancer treatment in past 6 months
+- HIV/AIDS or on immunosuppressive medications
+- Neurodevelopmental disorders, dementia, or cerebrovascular disease
+- Sickle cell disease, pregnancy, or current/recent smoking
+
+Dosing:
+- Nirmatrelvir 300 mg (two 150 mg tablets) + Ritonavir 100 mg (one tablet) TWICE DAILY for 5 days
+- eGFR 30–59 mL/min/1.73m²: Dose reduce to nirmatrelvir 150 mg + ritonavir 100 mg twice daily
+- eGFR <30: NOT recommended
+- Hepatic impairment: Severe (Child-Pugh C) — NOT recommended
+
+Critical Drug Interactions (Ritonavir is a potent CYP3A4 inhibitor):
+HIGH-ALERT interactions requiring management:
+- Warfarin: Expect INR ↑ — hold or reduce dose, increase monitoring
+- Statins (simvastatin, lovastatin, atorvastatin, rosuvastatin): Withhold statins during treatment + 5 days after
+- Immunosuppressants (tacrolimus, cyclosporine, sirolimus): Marked ↑ in levels — hold or reduce dose dramatically, monitor drug levels
+- Opioids (methadone, oxycodone): Use with extreme caution
+- Benzodiazepines (midazolam, triazolam): Contraindicated — risk of respiratory depression
+- PDE5 inhibitors (sildenafil): Contraindicated in pulmonary HTN doses
+- Rifampin, carbamazepine, phenytoin: Reduce nirmatrelvir levels — contraindicated
+- Anticoagulants (rivaroxaban, apixaban): Increased bleeding risk — withhold during treatment
+
+Contraindications:
+- eGFR <30 mL/min
+- Severe hepatic impairment
+- On drugs with narrow therapeutic index that cannot be safely modified
+- Hypersensitivity to nirmatrelvir or ritonavir
+
+Efficacy:
+EPIC-HR trial (NEJM 2022): 89% reduction in COVID-19-related hospitalization/death vs placebo in high-risk unvaccinated adults (0.8% vs 6.3%). 87.8% efficacy vs placebo in adults 65+ years.
+
+COVID Rebound:
+~2–4% of patients may experience symptom recurrence and test positive again 2–8 days after completing treatment. Not necessarily treatment failure; repeat Paxlovid course may be considered in high-risk patients.
+
+Monitoring During Treatment:
+- INR in warfarin patients (within 48h of starting, at completion)
+- Serum drug levels for immunosuppressants (tacrolimus q48–72h)
+- Electrolytes if on diuretics
+- No specific laboratory monitoring otherwise needed
+
+Alternative Antivirals:
+- Remdesivir: IV, 200 mg on day 1, then 100 mg on days 2–3 (3-day course). Preferred in patients with drug interactions or eGFR <30.
+- Molnupiravir (Lagevrio): 800 mg BID x 5 days. Less efficacy than Paxlovid (~30% risk reduction). Avoid in pregnancy.
+- Bebtelovimab/other mAbs: Limited use due to variant resistance.
+
+References: FDA EUA, NIH COVID-19 Treatment Guidelines 2024, EPIC-HR Trial (NEJM 2022), CROI 2022 Rebound Data

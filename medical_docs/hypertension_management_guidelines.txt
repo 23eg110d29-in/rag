@@ -1,0 +1,67 @@
+--- CLINICAL PROTOCOL: HYPERTENSION MANAGEMENT GUIDELINES ---
+
+Definition & Epidemiology:
+Hypertension (HTN) is defined as a sustained systolic blood pressure (SBP) ≥130 mmHg or diastolic blood pressure (DBP) ≥80 mmHg (ACC/AHA 2017 guidelines). It affects approximately 1.28 billion adults worldwide and is the leading modifiable cardiovascular risk factor. Prevalence rises sharply with age: ~70% of adults >65 years are affected.
+
+Classification (ACC/AHA 2017):
+- Normal: SBP <120 and DBP <80 mmHg
+- Elevated: SBP 120–129 and DBP <80 mmHg
+- Stage 1 HTN: SBP 130–139 or DBP 80–89 mmHg
+- Stage 2 HTN: SBP ≥140 or DBP ≥90 mmHg
+- Hypertensive Crisis: SBP >180 and/or DBP >120 mmHg
+
+Diagnostic Workup:
+BP should be confirmed with at least 2 readings on 2 separate occasions. Ambulatory blood pressure monitoring (ABPM) is the gold standard and identifies white-coat hypertension (~15–30% of patients) and masked hypertension. Home BP monitoring (average >135/85 is diagnostic) is a valid alternative. Evaluate for secondary causes (renal artery stenosis, primary aldosteronism, pheochromocytoma, sleep apnea, medication-induced) in young patients, resistant HTN, or sudden onset.
+
+Target Blood Pressure:
+- General population: <130/80 mmHg
+- Patients with CKD: <130/80 mmHg
+- Elderly (≥65 years): SBP 130–139 mmHg (individualize)
+- Diabetes: <130/80 mmHg
+- Pregnancy: 110–140/85 mmHg (avoid ACE inhibitors/ARBs)
+
+Non-Pharmacological Therapy (Lifestyle Modification):
+All hypertensive patients require lifestyle interventions:
+1. DASH diet (reduces SBP by 8–14 mmHg): rich in fruits, vegetables, low-fat dairy; limit saturated fats
+2. Sodium restriction to <2.3 g/day (ideally <1.5 g/day): reduces SBP 2–8 mmHg
+3. Weight reduction: each 1 kg loss reduces SBP ~1 mmHg
+4. Aerobic exercise ≥30 minutes/day, ≥5 days/week: reduces SBP 4–9 mmHg
+5. Limit alcohol: ≤2 drinks/day (men), ≤1 drink/day (women)
+6. Smoking cessation
+
+First-Line Pharmacotherapy:
+For Stage 1 HTN with ASCVD risk >10%: initiate one drug.
+For Stage 2 HTN: initiate two drugs (combination preferred).
+
+Drug Classes (first-line):
+1. Thiazide/Thiazide-like diuretics: Chlorthalidone 12.5–25 mg/day (preferred over HCTZ); Indapamide 1.25–2.5 mg/day
+2. ACE Inhibitors (ACEi): Lisinopril 10–40 mg/day; Ramipril 2.5–20 mg/day. Do NOT combine with ARBs.
+3. Angiotensin Receptor Blockers (ARBs): Losartan 50–100 mg/day; Valsartan 80–320 mg/day. Preferred over ACEi in patients with ACEi cough.
+4. Calcium Channel Blockers (CCBs): Amlodipine 5–10 mg/day (dihydropyridine). Avoid verapamil/diltiazem with beta-blockers.
+
+Second-Line Agents:
+- Beta-blockers (carvedilol, metoprolol succinate) — preferred in HFrEF, post-MI, or tachyarrhythmias
+- Aldosterone antagonists (spironolactone 25–50 mg/day) — effective in resistant HTN; monitor K⁺
+- Alpha-1 blockers (doxazosin) — useful in BPH comorbidity
+- Hydralazine + nitrate combination — in pregnancy-related HTN or ACEi/ARB contraindication
+
+Resistant Hypertension:
+Defined as BP >130/80 despite ≥3 medications (including a diuretic) at maximally tolerated doses, or controlled BP requiring ≥4 medications. Workup: ABPM, review medication adherence, exclude secondary causes. Add spironolactone or eplerenone as 4th agent.
+
+Hypertensive Urgency vs Emergency:
+- Urgency: SBP >180 or DBP >120, no acute TOD → oral agents, reduce BP over 24–48h
+- Emergency: SBP >180 or DBP >120 WITH acute target organ damage (AKI, encephalopathy, aortic dissection, NSTEMI, flash pulmonary edema) → IV labetalol, nicardipine, or nitroprusside; reduce MAP by 10–20% in first hour, then to 160/100 over next 6h
+
+Monitoring:
+- Follow up 1 month after initiating/changing therapy
+- Once at goal, every 3–6 months
+- Annual labs: BMP (K⁺, Cr), urinalysis (proteinuria)
+- ECG at baseline; Echo if LVH suspected
+
+Special Populations:
+- CKD with proteinuria: prefer ACEi or ARB (renoprotective)
+- Diabetes: ACEi/ARB preferred
+- Post-MI: beta-blocker + ACEi/ARB
+- HFrEF: ACEi/ARB + beta-blocker + aldosterone antagonist + diuretic
+
+References: JNC 8, ACC/AHA 2017 Guideline, SPRINT Trial (NEJM 2015), ESC/ESH 2018 Guidelines
