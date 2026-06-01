@@ -1,0 +1,66 @@
+--- CLINICAL PROTOCOL: SEPSIS — SURVIVING SEPSIS CAMPAIGN 2021 ---
+
+Definition (Sepsis-3, JAMA 2016):
+- Sepsis: Life-threatening organ dysfunction caused by dysregulated host response to infection. Defined by SOFA score increase ≥2.
+- Septic Shock: Sepsis + vasopressor requirement to maintain MAP ≥65 mmHg + lactate >2 mmol/L (despite adequate fluid resuscitation). Hospital mortality >40%.
+- qSOFA (quick SOFA): Altered mental status + RR ≥22 + SBP ≤100 (≥2 = high risk, warrants SOFA assessment)
+
+Epidemiology:
+~49 million cases/year globally, 11 million deaths. Leading cause of ICU mortality. Early recognition and time-to-treatment are the most critical determinants of outcome.
+
+THE 1-HOUR BUNDLE (Sepsis-3 SSC 2021):
+Within 1 hour of sepsis recognition:
+1. Measure lactate — if initial lactate >2 mmol/L, remeasure in 2h
+2. Obtain blood cultures (≥2 sets, aerobic + anaerobic) BEFORE antibiotics
+3. Administer broad-spectrum IV antibiotics
+4. Administer 30 mL/kg IV crystalloid for hypotension (MAP <65) or lactate ≥4 mmol/L
+5. Apply vasopressors (norepinephrine) if hypotension during or after fluids to maintain MAP ≥65 mmHg
+
+Antibiotic Selection (Broad-Spectrum — Empiric):
+Start within 1 hour of sepsis recognition (each hour delay increases mortality ~7%).
+- Community-acquired, no risk factors: Piperacillin-tazobactam 4.5g IV q6h OR ceftriaxone 2g IV q24h + metronidazole (if abdominal source)
+- Hospital-acquired / ICU: Vancomycin 25–30 mg/kg load + piperacillin-tazobactam OR meropenem 1–2g q8h
+- Immunocompromised/neutropenic: Antipseudomonal coverage + antifungal consideration (caspofungin)
+- MRSA risk: Add vancomycin (target trough 15–20 mg/L) or linezolid
+- Duration: De-escalate based on cultures within 48–72h; typical 7–10 days (5 days if good source control)
+
+Fluid Resuscitation:
+- Initial: 30 mL/kg isotonic crystalloid (0.9% NaCl or Lactated Ringer's) in first 3 hours
+- Prefer balanced crystalloids (LR) over NS to avoid hyperchloremic metabolic acidosis
+- Assess fluid responsiveness: passive leg raise (PLR), pulse pressure variation (PPV), echocardiography
+- Avoid colloids (albumin 4% if failed to respond to crystalloid + evidence of hypovolemia)
+- Reassess every 30 min: MAP, HR, UO, lactate clearance
+
+Vasopressors:
+- Norepinephrine: FIRST-LINE, 0.01–3.3 mcg/kg/min titrated to MAP ≥65
+- Vasopressin 0.03 units/min: add to norepinephrine (NE sparing effect)
+- Epinephrine: add if MAP goal not met with NE + vasopressin
+- Dopamine: NOT recommended (arrhythmogenic); reserve for select patients (bradycardic shock)
+- Phenylephrine: avoid in high-output states
+
+Steroids in Septic Shock:
+Hydrocortisone 200 mg/day IV (50 mg q6h or 200 mg continuous infusion) — indicated if norepinephrine dose >0.25 mcg/kg/min after adequate fluids. Duration 5–7 days, taper over 6–9 days. (ADRENAL Trial, APROCCHSS Trial).
+
+Glucose Management:
+Target blood glucose 140–180 mg/dL. Use insulin infusion protocol if glucose >180 on 2 consecutive readings. Avoid hypoglycemia (<70 mg/dL). (NICE-SUGAR Trial: tight control 80–110 increased mortality).
+
+Organ Support:
+- Renal: CRRT preferred over intermittent HD in hemodynamically unstable. Initiate for AKI with fluid overload, severe hyperkalemia (>6), metabolic acidosis (pH <7.1), uremia.
+- Respiratory: Lung-protective ventilation if ARDS: TV 6 mL/kg IBW, plateau pressure <30 cmH₂O, PEEP titration, prone positioning ≥16h/day if P/F <150
+- Transfusion: Hgb target 7 g/dL (9 g/dL in active MI/unstable angina)
+- DVT prophylaxis: LMWH preferred; SCDs if anticoagulation contraindicated
+- Stress ulcer prophylaxis: only in high-risk ICU patients (on mechanical ventilation, coagulopathy)
+
+Lactate Clearance Goal:
+Remeasure lactate every 2h if initial >2 mmol/L. Target ≥10% reduction per measurement. Persistent lactate >4 signals ongoing tissue hypoperfusion.
+
+Source Control:
+Identify and control infectious source ASAP (within 6–12h): drain abscess, debride necrotic tissue, remove infected device, control bowel perforation.
+
+Prognosis Markers:
+- High lactate: major predictor of mortality
+- SOFA ≥11: ~40% mortality
+- Persistent shock at 24h: >50% mortality
+- Time to antibiotics and source control: most modifiable factors
+
+References: Surviving Sepsis Campaign 2021 Guidelines (Intensive Care Med), Sepsis-3 JAMA 2016, ANDROMEDA-SHOCK, PROCESS/ARISE/ProCESS trials

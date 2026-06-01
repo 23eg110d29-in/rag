@@ -1,0 +1,35 @@
+--- CLINICAL PROTOCOL: PARKINSON'S DISEASE & LEVODOPA ---
+
+Overview:
+Parkinson's Disease & Levodopa represents a critical area of evidence-based medicine with well-established guidelines from major professional societies. This protocol summarizes current best-practice recommendations for diagnosis, treatment, and monitoring.
+
+Key Clinical Concepts & Guidelines:
+UK Brain Bank Criteria: bradykinesia + rigidity/resting tremor. Hoehn & Yahr staging. MDS-UPDRS scoring. Initial therapy: levodopa/carbidopa (Sinemet) — most effective; MAO-B inhibitors (rasagiline 1 mg, selegiline) for early neuroprotection; dopamine agonists (pramipexole, ropinirole, rotigotine patch) — younger patients to delay dyskinesia. Motor complications: wearing-off (reduce inter-dose interval, add entacapone COMT inhibitor, or amantadine for dyskinesia). Advanced PD: continuous duopa intestinal infusion, DBS (subthalamic nucleus), apomorphine SC pump
+
+Clinical Assessment:
+Systematic evaluation is required at initial presentation and regular follow-up intervals. Patient history, physical examination findings, laboratory data, and imaging studies must be integrated to guide individualized treatment decisions. Clinicians should assess disease severity, comorbidities, medication adherence, and patient preferences before initiating or modifying therapy.
+
+Treatment Principles:
+1. Evidence-based therapy should be initiated at the lowest effective dose and titrated to therapeutic goals.
+2. Regular monitoring of treatment response, adverse effects, and laboratory parameters is essential.
+3. Multidisciplinary team involvement (primary care, specialists, pharmacists, nurses) improves outcomes.
+4. Patient education and shared decision-making are core components of management.
+5. Lifestyle modifications should accompany pharmacological interventions in all eligible patients.
+
+Contraindications & Special Populations:
+Patients with hepatic impairment (Child-Pugh B/C), severe renal dysfunction (eGFR <30 mL/min), pregnancy, and known drug hypersensitivity require careful individualization of therapy. Elderly patients are at increased risk for adverse drug reactions, polypharmacy interactions, and falls. Pediatric dosing and thresholds differ significantly from adult guidelines.
+
+Drug Interactions & Monitoring:
+All medications require periodic monitoring for efficacy and toxicity. Document baseline labs, establish monitoring intervals, and educate patients on symptoms requiring urgent attention. Check for common drug-drug interactions with anticoagulants, immunosuppressants, narrow therapeutic index drugs, and CYP450 substrates/inhibitors.
+
+When to Escalate / Refer:
+Specialist referral is indicated for: diagnostic uncertainty, treatment-refractory disease, complex comorbidities, consideration of procedural or surgical intervention, and management of rare or severe complications. Timely escalation prevents morbidity and reduces hospitalizations.
+
+References:
+- MDS 2023 PD Guidelines
+- Clinical Trial Data supporting guideline recommendations
+- Peer-reviewed meta-analyses and systematic reviews
+- Medical Board Guidelines 2023–2024
+
+Disclaimer:
+This protocol is for educational purposes and clinical reference only. Individual patient care decisions should be made in consultation with qualified healthcare professionals, taking into account the full clinical context and local institutional protocols.

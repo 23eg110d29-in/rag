@@ -1,0 +1,62 @@
+--- CLINICAL PROTOCOL: ACUTE KIDNEY INJURY — KDIGO GUIDELINES ---
+
+Definition (KDIGO 2012):
+AKI is defined by any of the following within 48h or 7 days:
+- Rise in serum creatinine (SCr) ≥0.3 mg/dL within 48 hours
+- Rise in SCr to ≥1.5× baseline within the prior 7 days
+- Urine output (UO) <0.5 mL/kg/h for ≥6 consecutive hours
+
+KDIGO Staging:
+Stage 1: SCr 1.5–1.9× baseline OR rise ≥0.3 mg/dL; UO <0.5 mL/kg/h for 6–12h
+Stage 2: SCr 2.0–2.9× baseline; UO <0.5 mL/kg/h for ≥12h
+Stage 3: SCr ≥3× baseline OR SCr ≥4.0 mg/dL OR initiation of RRT; UO <0.3 mL/kg/h for ≥24h or anuria for ≥12h
+
+Epidemiology:
+AKI occurs in 10–15% of hospitalized patients, >50% of ICU patients. Hospital mortality: Stage 1 = 20%, Stage 2 = 27%, Stage 3 = 40%+. Survivors have increased risk of CKD, ESRD, and cardiovascular events.
+
+Classification by Location:
+Pre-renal (55–60%): Decreased renal perfusion — volume depletion, low CO states, drugs (NSAIDs, ACEi/ARBs, diuretics). BUN:Cr >20:1, FENa <1%, FeUrea <35%.
+Intrinsic renal (35–40%):
+- ATN (most common): Ischemic (post-pre-renal) or nephrotoxic (contrast, aminoglycosides, cisplatin). Muddy-brown granular casts on UA.
+- Glomerulonephritis: RBC casts, proteinuria, hematuria
+- AIN (interstitial nephritis): Drug-induced (NSAIDs, PPIs, antibiotics), eosinophiluria, WBC casts, skin rash
+- Vascular: TMA (TTP/HUS), renal artery thrombosis
+Post-renal (5–10%): Obstruction — BPH, nephrolithiasis, malignancy, foley malposition. Hydronephrosis on ultrasound.
+
+Diagnostic Evaluation:
+History: Recent nephrotoxin exposure (contrast, aminoglycosides, NSAIDs, ACEi/ARB), volume status, recent surgery/sepsis, urinary symptoms.
+Labs: SCr trend, BUN, electrolytes (K⁺, HCO₃⁻), CBC, urinalysis with microscopy, FENa (if oliguric and not on diuretics), FeUrea (if on diuretics)
+Imaging: Renal ultrasound (rule out obstruction, assess kidney size); Doppler if vascular cause suspected
+Biomarkers: NGAL, KIM-1, TIMP-2 x IGFBP-7 (NephroCheck) for early detection; Cystatin C more accurate than SCr in early AKI
+
+Management:
+1. Identify and treat underlying cause (optimize hemodynamics, stop nephrotoxins)
+2. Fluid management: 0.9% NS or balanced crystalloids (LR); target MAP ≥65 mmHg; reassess every 4–6h
+3. Avoid further nephrotoxin exposure: NSAIDs, aminoglycosides, iodinated contrast (use iso-osmolar; pre-hydrate)
+4. Dose-adjust medications: fluoroquinolones, renally-cleared drugs; avoid metformin if eGFR <30
+5. Electrolyte management: K⁺ >5.5 mEq/L — dietary restriction, kayexalate, patiromer, fludrocortisone; K⁺ >6.5 or EKG changes — calcium gluconate + insulin/dextrose + emergent dialysis
+
+Indications for Renal Replacement Therapy (RRT/Dialysis):
+AEIOU mnemonic:
+- A: Acidosis (pH <7.1 refractory to treatment)
+- E: Electrolytes (K⁺ >6.5, refractory hyperkalemia)
+- I: Intoxication (dialyzable toxins: lithium, methanol, ethylene glycol, salicylates, theophylline)
+- O: Overload (refractory fluid overload with pulmonary edema)
+- U: Uremia (BUN >100, pericarditis, encephalopathy, bleeding)
+No absolute BUN/Cr threshold. Timing: current evidence does NOT support early initiation (STARRT-AKI, AKIKI trials).
+
+RRT Modalities:
+- IHD (intermittent hemodialysis): Hemodynamically stable patients
+- CRRT (continuous RRT): Hemodynamically unstable; preferred in ICU. Modes: CVVHDF, CVVHF, CVVHD
+- SLED/PIRRT: Hybrid — sustained low-efficiency dialysis
+
+Recovery and Follow-Up:
+Most pre-renal AKI recovers with treatment. ATN: 7–21 day recovery. Stage 3 AKI: 30–40% develop CKD within 2 years. All AKI patients require nephrology follow-up within 3 months. Monitor SCr, uACR, BP. Risk stratify for CKD with ACEi/ARB initiation if proteinuria present.
+
+Contrast-Induced AKI (CI-AKI) Prevention:
+- Use lowest possible contrast volume; iso-osmolar > high-osmolar
+- Pre-hydration: 1–1.5 mL/kg/h 0.9% NS for 6–12h before and after procedure
+- Hold nephrotoxic drugs (NSAIDs, metformin) 48h before procedure
+- N-Acetylcysteine: NOT recommended (no proven benefit per PRESERVE Trial)
+
+References: KDIGO AKI Guidelines 2012, STARRT-AKI Trial (NEJM 2020), AKIKI Trial (NEJM 2016), Kidney International Supplements 2012

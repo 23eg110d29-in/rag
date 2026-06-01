@@ -1,0 +1,66 @@
+--- CLINICAL PROTOCOL: TYPE 2 DIABETES MANAGEMENT ---
+
+Definition & Epidemiology:
+Type 2 Diabetes Mellitus (T2DM) is characterized by progressive insulin resistance and relative insulin secretory defect. It affects ~537 million adults globally (2021 IDF Atlas) with prevalence predicted to rise to 643 million by 2030. Leading cause of CKD, blindness, non-traumatic limb amputation, and cardiovascular morbidity.
+
+Diagnostic Criteria (ADA 2024):
+Any one of the following:
+- Fasting plasma glucose (FPG) ≥126 mg/dL (8-hour fast)
+- 2-hour OGTT glucose ≥200 mg/dL (75 g glucose load)
+- HbA1c ≥6.5% (NGSP-certified assay)
+- Random plasma glucose ≥200 mg/dL with classic hyperglycemia symptoms
+Confirmation required with repeat test (unless unequivocal hyperglycemia).
+
+Prediabetes:
+- IFG: FPG 100–125 mg/dL
+- IGT: 2-hr OGTT 140–199 mg/dL
+- HbA1c 5.7–6.4%
+Intervene with lifestyle modification (7% weight loss, 150 min/week moderate exercise). Consider metformin if HbA1c ≥6.0% or high-risk features.
+
+HbA1c Targets:
+- General: <7.0% (most nonpregnant adults)
+- Stringent: <6.5% (young, short duration, no significant CVD, low hypoglycemia risk)
+- Relaxed: <8.0% (elderly, multiple comorbidities, limited life expectancy, high hypoglycemia risk)
+- Pregnancy: <6.0% (1st trimester) → <6.5% (2nd/3rd trimester)
+
+Glucose Monitoring:
+- HbA1c every 3 months until goal; then every 6 months
+- CGM (continuous glucose monitoring) preferred over SMBG in patients on insulin; targets: TIR >70%, TAR <25%, TBR <4%
+
+Pharmacotherapy:
+Step 1 — Metformin (if no contraindication):
+Start 500 mg BID with meals, titrate to 1000 mg BID (max 2550 mg/day). Contraindicated if eGFR <30. Reduces HbA1c by 1–1.5%. Benefits: weight-neutral/modest loss, CV neutral or beneficial, low hypoglycemia risk, low cost.
+
+Step 2 — Add second agent based on comorbidities (ADA 2024):
+- Established ASCVD or high CV risk: Add GLP-1 RA (semaglutide, liraglutide) OR SGLT2i (empagliflozin, dapagliflozin, canagliflozin) — both have CV outcome benefits
+- HF or CKD: SGLT2i preferred (renoprotective, reduces HHF)
+- Weight loss needed: GLP-1 RA (semaglutide SC reduces weight 10–15%)
+- Hypoglycemia concern: GLP-1 RA, DPP-4i, or SGLT2i (not SU)
+- Cost concern: SU (glipizide, glimepiride) or TZD (pioglitazone)
+
+Key Drug Classes:
+1. GLP-1 RAs: Semaglutide (Ozempic) 0.5–2 mg SQ weekly; Liraglutide (Victoza) 1.2–1.8 mg SQ daily; Dulaglutide (Trulicity) 0.75–4.5 mg SQ weekly. SE: N/V/D (transient). Contraindicated: MEN2, medullary thyroid cancer.
+2. SGLT2 inhibitors: Empagliflozin 10–25 mg/day; Dapagliflozin 10 mg/day; Canagliflozin 100–300 mg/day. SE: GU infections, DKA (rare), Fournier's gangrene. Benefits: CV mortality ↓, HHF ↓, CKD progression ↓.
+3. DPP-4 inhibitors: Sitagliptin 100 mg/day (dose-adjust in CKD); Saxagliptin; Alogliptin. Modest HbA1c reduction (~0.5–0.8%). CV neutral. SE: nasopharyngitis, pancreatitis (rare).
+4. SUs: Glipizide 5–20 mg/day; Glimepiride 1–8 mg/day. High hypoglycemia risk. Weight gain. Inexpensive.
+5. Insulin: Indicated when HbA1c remains >10%, symptomatic hyperglycemia, or oral agents insufficient. Start basal insulin (glargine U-100, detemir) 10 U/day or 0.1–0.2 U/kg/day. Titrate: add 2U every 3 days if FBS >130 mg/dL.
+
+Insulin Types:
+- Rapid: Aspart, Lispro, Glulisine (onset 5–15 min)
+- Short: Regular insulin (onset 30–60 min)
+- Intermediate: NPH (onset 1–2h)
+- Long: Glargine U-100/U-300, Detemir, Degludec (once daily)
+
+Complications Screening:
+- Nephropathy: uACR + eGFR annually
+- Retinopathy: dilated eye exam at diagnosis, then annually
+- Neuropathy: annual 10-g monofilament + vibration sense
+- Feet: annual comprehensive foot exam
+- Cardiovascular: lipid panel, BP at every visit; statin therapy if >40 years
+
+Comorbidity Management:
+- Hypertension: target <130/80; use ACEi or ARB if proteinuria
+- Hyperlipidemia: moderate-intensity statin for all >40 yo (high-intensity if ASCVD)
+- Obesity: consider bariatric surgery if BMI >35 kg/m² with T2DM
+
+References: ADA Standards of Medical Care in Diabetes 2024, UKPDS, ACCORD, ADVANCE, EMPA-REG OUTCOME, LEADER, SUSTAIN-6, CANVAS, DECLARE-TIMI 58

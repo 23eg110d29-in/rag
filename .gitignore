@@ -31,6 +31,8 @@ dist-ssr/
 build/
 .next/
 out/
+medical-rag-app/
+
 
 # Database and runtime data files
 backend/data/*.db
