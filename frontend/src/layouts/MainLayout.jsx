@@ -61,7 +61,8 @@ const MainLayout = ({ children, activePage, setActivePage }) => {
         {/* Footer */}
         <div className="p-6 border-t border-white/5 text-center">
           <p className="text-xs text-slate-500">MedRAG AI v2.0</p>
-          <p className="text-[10px] text-slate-600 mt-1">Medical AI Assistant Platform</p>
+          <p className="text-[10px] text-slate-600 mt-1">Designed & Developed by</p>
+          <p className="text-[11px] font-semibold bg-gradient-to-r from-medical-400 to-indigo-400 bg-clip-text text-transparent mt-0.5">Kammarisahasra</p>
         </div>
       </aside>
 
