@@ -9,6 +9,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { OpenAI } from 'openai';
 import dotenv from 'dotenv';
+import os from 'os';
 
 // Load environment variables
 dotenv.config();
@@ -19,7 +20,7 @@ const PORT = process.env.PORT || 5002;
 app.use(cors());
 app.use(express.json());
 
-const upload = multer({ dest: 'uploads/' });
+const upload = multer({ dest: os.tmpdir() });
 
 // Resolve paths
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
